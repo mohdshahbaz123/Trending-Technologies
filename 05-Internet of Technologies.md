@@ -4,7 +4,7 @@ for the purpose of connecting and exchanging data with other devices and systems
 objects to sophisticated industrial tools. With more than 7 billion connected IoT devices today, experts are expecting this number to grow
 to 10 billion by 2020 and 22 billion by 2025. Oracle has a network of device partners.
 
-# While the idea of IoT has been in existence for a long time, a collection of recent advances in a number of different technologies has made it practical.
+## While the idea of IoT has been in existence for a long time, a collection of recent advances in a number of different technologies has made it practical.
 
 - Access to low-cost, low-power sensor technology. Affordable and reliable sensors are making IoT technology possible for more manufacturers.
 Connectivity. 
